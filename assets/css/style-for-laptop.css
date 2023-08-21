@@ -1,0 +1,44 @@
+@media screen and (min-width: 440px) {
+    .title-stepper {
+        font-size: 20px;
+        font-weight: bold;
+        color: #00b4d8;
+        text-align: center;
+        margin-top: -10px;
+        text-shadow: 0px 1px 7px white;
+        background-color: white;z-index: 1;position: absolute;margin-right: 20%;
+    }
+    .navbar-toggler {
+        margin-right: 70%;
+    }
+    .book-img{
+        border: 15px solid white;
+        width: 230px;
+        margin: 50px auto;
+        border-radius: 10px;
+        box-shadow: 0 0 10px #999;
+        position: absolute;
+        margin-top: 50px;
+    }
+    .signup-right{
+        background: linear-gradient(90deg, #EB3349 ,#F45C43);
+        padding: 120px 15px;
+        text-align: center;
+        color: white;
+
+    }
+    .main-dashboard{
+        left: 0;
+        margin: 10px 115px 0 15px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px #999;
+        padding: 10px 15px;
+
+    }
+    .just-in-phone{
+        display: none;
+    }
+    .box-news-bigger{
+        padding: 30px 0 0 0;
+    }
+}
